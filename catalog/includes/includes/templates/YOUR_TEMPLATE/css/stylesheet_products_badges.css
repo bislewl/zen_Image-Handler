@@ -1,0 +1,8 @@
+/* 
+    Created on : Jun 9, 2015, 12:03:09 PM
+    Author     : bislewl <bislewl@gmail.com>
+*/
+
+.product-badge-new, .product-badge-featured, .product-badge-special, .product-badge-sale{
+    position: absolute;
+} 
